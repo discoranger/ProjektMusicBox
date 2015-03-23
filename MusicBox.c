@@ -6,7 +6,7 @@
  */
 
 #include <stdio.h>
-#include <wiringPi.h>
+#include <wiringPi.h>				// pifoo
 #include <softTone.h>
 #include <pthread.h>
 #include <unistd.h>
